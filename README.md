@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi, I'm İlayda Tütüncü 👋
+
+I am a Computer Engineering student at Karadeniz Technical University.  
+Currently, I am learning and working on Artificial Intelligence using Python.
+
+📫 Feel free to reach out to me:  
+- [LinkedIn](https://www.linkedin.com/in/ilayda-tutuncu-aa6b39231/)  
+- 📧 ilydatutunc@gmail.com
+
+🚀 Check out my projects on GitHub.
+
 
 <!--
 **ilydatutunc/ilydatutunc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
