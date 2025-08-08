@@ -17,7 +17,7 @@
 
 ### 📫 Contact Me
 
-- [LinkedIn](https://www.linkedin.com/in/ilayda-tutuncu-aa6b39231/)  
+- [LinkedIn](https://www.linkedin.com/in/ilayda-t%C3%BCt%C3%BCnc%C3%BC-aa6b39231/)  
 - 📧 ilydatutunc@gmail.com
 
 ---
